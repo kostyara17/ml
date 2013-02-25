@@ -1,4 +1,4 @@
 ml
 ==
 
-maschine learning and data-mining
+machine learning and data-mining
